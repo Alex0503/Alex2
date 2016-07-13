@@ -9,4 +9,4 @@ me too
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
-
+今日は香鍋を食べましょう。
