@@ -9,5 +9,9 @@ me too
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
+<<<<<<< HEAD
 
 eghhgfdggfhfgh
+=======
+今日は香鍋を食べましょう。
+>>>>>>> 92bb5faf52ac1ee81dd09c165614e22f080a9199
